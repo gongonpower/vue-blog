@@ -13,6 +13,7 @@
     <footer class="footer">
       <p>Copyright © <a href='https://github.com/BUPT-HJM'>BUPT-HJM</a>&nbsp;&nbsp;2017 </p>
       <p>Created by <a href="https://github.com/BUPT-HJM/vue-blog.git">vue-blog</a></p>
+      <p>Modified by<a href="https://github.com/BUPT-HJM/vue-blog.git">Jacky Chan</a></p>
     </footer>
   </div>
 </template>
